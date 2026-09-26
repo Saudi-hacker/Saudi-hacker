@@ -1,5 +1,5 @@
 ﻿<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Abdullah+Khaled+Alharbi+%F0%9F%87%B8%F0%9F%87%A6;Cybersecurity+Researcher+%7C+Developer+%7C+Innovator;Bug+Bounty+Hunter+%7C+TU+Delft+HOF+2026;Full-Stack+%7C+IoT+%7C+E-Commerce" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=750&lines=Abdullah+Khaled+Alharbi+%F0%9F%87%B8%F0%9F%87%A6%3BCybersecurity+Researcher+%7C+Systems+%26+IoT%3BWHO%2C+TU+Delft+%26+WUR+Hall+of+Fame%3BTop+19+Nationally+%7C+Tuwaiq+CTF+2026" alt="Typing SVG" />
 </p>
 
 <p align="center">
