@@ -17,7 +17,7 @@ Computer Science student at **Taibah University (Yanbu Campus)** with a deep pas
 
 - Responsible Disclosure Halls of Fame: **World Health Organization (WHO)**, **TU Delft (Netherlands)**, and **Wageningen University (WUR)**
 - Ranked **19th nationally** in **Tuwaiq Cyber Challenge (CTF 2026)** by Tuwaiq Academy & SAFCSP
-- Creator of **EDRAK-CIPHER** (sovereign zero-knowledge behavioral telemetry & IoT security)
+- Creator of **EDRAK-CIPHER** (exploratory lightweight symmetric ARX block cipher for IoT telemetry)
 - **Black Hat MEA** attendee — engaged with global cybersecurity leaders
 - Founder of **Cloud-KSA** — a complete e-commerce platform featured on **Rotana Khalijia TV**
 - **415+ documented volunteer hours** in community service, Hajj camps, and scouting leadership
@@ -71,7 +71,7 @@ Computer Science student at **Taibah University (Yanbu Campus)** with a deep pas
 ## Featured Projects
 
 ### Cloud-KSA | منصة متجرك جاهز
-> **Full-Stack E-Commerce Platform** · _3 Years of Development_
+> **Full-Stack E-Commerce Platform** · _May 2022 — May 2023 (1 Year)_
 
 A complete turnkey e-commerce solution enabling users to launch online stores instantly. Supports multiple payment gateways, supplier networks, and drop-shipping integration.
 
