@@ -20,7 +20,7 @@ Computer Science student at **Taibah University (Yanbu Campus)** with a deep pas
 - Creator of **EDRAK-CIPHER** (sovereign zero-knowledge behavioral telemetry & IoT security)
 - **Black Hat MEA** attendee — engaged with global cybersecurity leaders
 - Founder of **Cloud-KSA** — a complete e-commerce platform featured on **Rotana Khalijia TV**
-- **815+ documented volunteer hours** in community service, Hajj camps, and scouting leadership
+- **415+ documented volunteer hours** in community service, Hajj camps, and scouting leadership
 - Freelance developer license from the **Ministry of Human Resources (Saudi Arabia)**
 
 ---
@@ -118,7 +118,7 @@ Active bug bounty hunter with verified findings in global systems. Conducting pe
 | **Academics** | Mawhiba Cognitive Ability Score: **1536/2000** (Top Performer) |
 | **Professional** | Freelance Developer License — Ministry of Human Resources |
 | **Leadership** | Scouts Excellence Medal — Riyadh Challenge & Adventure Camp |
-| **Service** | **815+** Documented Volunteer Hours (National Non-Profit Center) |
+| **Service** | **415+** Documented Volunteer Hours (National Non-Profit Center) |
 
 ---
 
@@ -140,10 +140,10 @@ Active bug bounty hunter with verified findings in global systems. Conducting pe
 
 ```
 ┌─────────────────────────────────────────────────────────┐
-│  TOTAL DOCUMENTED HOURS: 815+                           │
+│  TOTAL DOCUMENTED HOURS: 415+                           │
 │  National Center for Non-Profit Sector Development       │
 ├─────────────────────────────────────────────────────────┤
-│  470 hrs   General & Ongoing Community Service           │
+│  270 hrs   General & Ongoing Community Service           │
 │  125 hrs   Hajj Service Camps — Hajj 1447                │
 │   80 hrs   Holy Mosque Pilgrim Service — Hajj 1445       │
 │   30 hrs   Heating Safety Awareness Campaign             │
@@ -179,4 +179,5 @@ Active bug bounty hunter with verified findings in global systems. Conducting pe
   <a href="https://saudi-hacker.pages.dev"><img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white" /></a>
   <a href="mailto:abdullah.khaled.alhrbi@gmail.com">abdullah.khaled.alhrbi@gmail.com</a>
 </p>
+
 
