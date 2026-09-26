@@ -115,7 +115,7 @@ Active bug bounty hunter with verified findings in global systems. Conducting pe
 | **Innovation** | National Olympiad for Scientific Creativity (Ibdaa) — 2024 & 2025 |
 | **Innovation** | Honored by HRH Prince of Qassim at Innovator Exhibition |
 | **Media** | Platform featured on Rotana Khalijia TV |
-| **Academics** | Mawhiba Cognitive Ability Score: **1536/2000** (Top Performer) |
+| **Academics** | Mawhiba Cognitive Ability Score: **1536/2000** |
 | **Professional** | Freelance Developer License — Ministry of Human Resources |
 | **Leadership** | Scouts Excellence Medal — Riyadh Challenge & Adventure Camp |
 | **Service** | **415+** Documented Volunteer Hours (National Non-Profit Center) |
@@ -179,5 +179,6 @@ Active bug bounty hunter with verified findings in global systems. Conducting pe
   <a href="https://saudi-hacker.pages.dev"><img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white" /></a>
   <a href="mailto:abdullah.khaled.alhrbi@gmail.com">abdullah.khaled.alhrbi@gmail.com</a>
 </p>
+
 
 
