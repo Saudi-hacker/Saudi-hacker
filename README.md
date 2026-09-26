@@ -1,4 +1,4 @@
-<p align="center">
+﻿<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Abdullah+Khaled+Alharbi+%F0%9F%87%B8%F0%9F%87%A6;Cybersecurity+Researcher+%7C+Developer+%7C+Innovator;Bug+Bounty+Hunter+%7C+TU+Delft+HOF+2026;Full-Stack+%7C+IoT+%7C+E-Commerce" alt="Typing SVG" />
 </p>
 
@@ -13,9 +13,11 @@
 
 ## About Me
 
-High school student at **Abdulaziz Al-Khuwaiter Secondary School** with a deep passion for **cybersecurity**, **software engineering**, and **hardware innovation**. I bridge the gap between breaking and building — finding real-world security vulnerabilities while developing full-scale web platforms and IoT devices.
+Computer Science student at **Taibah University (Yanbu Campus)** with a deep passion for **cybersecurity**, **software engineering**, and **hardware innovation**. I bridge the gap between breaking and building — finding real-world security vulnerabilities while developing full-scale web platforms and IoT devices.
 
-- Bug Bounty Hunter with a validated Hall of Fame entry at **TU Delft (Netherlands, 2026)**
+- Responsible Disclosure Halls of Fame: **World Health Organization (WHO)**, **TU Delft (Netherlands)**, and **Wageningen University (WUR)**
+- Ranked **19th nationally** in **Tuwaiq Cyber Challenge (CTF 2026)** by Tuwaiq Academy & SAFCSP
+- Creator of **EDRAK-CIPHER** (sovereign zero-knowledge behavioral telemetry & IoT security)
 - **Black Hat MEA** attendee — engaged with global cybersecurity leaders
 - Founder of **Cloud-KSA** — a complete e-commerce platform featured on **Rotana Khalijia TV**
 - **815+ documented volunteer hours** in community service, Hajj camps, and scouting leadership
@@ -105,7 +107,10 @@ Active bug bounty hunter with verified findings in global systems. Conducting pe
 
 | Category | Achievement |
 |----------|-------------|
-| **Cybersecurity** | TU Delft University Hall of Fame (2026) |
+| **Cybersecurity** | World Health Organization (WHO) Hall of Fame (2026) |
+| **Cybersecurity** | TU Delft University Hall of Fame (Netherlands, 2026) |
+| **Cybersecurity** | Wageningen University (WUR) Hall of Fame (Netherlands, 2026) |
+| **Cybersecurity** | **19th Place Nationally** — Tuwaiq Cyber Challenge (CTF 2026) |
 | **Cybersecurity** | Black Hat MEA Conference Attendee |
 | **Innovation** | National Olympiad for Scientific Creativity (Ibdaa) — 2024 & 2025 |
 | **Innovation** | Honored by HRH Prince of Qassim at Innovator Exhibition |
@@ -174,3 +179,4 @@ Active bug bounty hunter with verified findings in global systems. Conducting pe
   <a href="https://saudi-hacker.pages.dev"><img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white" /></a>
   <a href="mailto:abdullah.khaled.alhrbi@gmail.com">abdullah.khaled.alhrbi@gmail.com</a>
 </p>
+
